@@ -636,4 +636,21 @@
     ],
     "dateAdded": "1597807892019"
   }
+  {
+    "name": "xo-hyper",
+    "type": "theme",
+    "description": "Dark minimal mono theme for Hyper. Inverted version of Xi",
+    "colors": [
+      "#f8f9fa",
+      "#e9ecef",
+      "#dee2e6",
+      "#ced4da",
+      "#adb5bd",
+      "#868e96",
+      "#495057",
+      "#343a40",
+      "#212121"
+    ],
+    "dateAdded": "1605178069746"
+  }
 ]
